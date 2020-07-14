@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I'm Freddy, an amateur writer covering, privacy, security and open-source development.
 
