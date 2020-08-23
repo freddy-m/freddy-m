@@ -2,7 +2,7 @@
 
 I'm Freddy, an amateur writer covering, privacy, security and open-source development.
 
-- :shield: [PrivacyTools](https://privacytools.io/)
+- :shield: Team Member at [PrivacyTools](https://privacytools.io/)
 - 📫 [hello@freddym.xyz](mailto:hello@freddym.xyz)
 - 😄 [pronoun.is/he](https://pronoun.is/he)
 - 🐘 [@freddy@social.privacytools.io](https://social.privacytools.io/@freddy)
