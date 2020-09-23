@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Freddy, an amateur writer covering, privacy security and open-source development.
+I'm Freddy, an amateur writer covering privacy, security and open-source development.
 
 - :shield: Team Member at [PrivacyTools](https://privacytools.io/about/)
 - 📫 [hello@freddym.xyz](mailto:hello@freddym.xyz)
