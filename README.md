@@ -11,7 +11,7 @@ I'm Freddy, an amateur writer covering, privacy security and open-source develop
 ###### This is free and unencumbered software?
 
 
-<a href="https://octo-ring.com/p/runxel/random"><img align="left" alt="Octo Ring logo" src="https://octo-ring.com/static/img/octo.png" width="64px" /></a>
+<a href="https://octo-ring.com/p/freddy-m/random"><img align="left" alt="Octo Ring logo" src="https://octo-ring.com/static/img/octo.png" width="64px" /></a>
 
 ««« Click on the 🐙 to visit a random profile in the [Octo Ring](https://octo-ring.com/) «««
 
