@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-I'm Freddy, an amateur writer covering privacy, security and open-source development.
+I'm Freddy, an amateur writer covering privacy, security and open-source development. I'm also a team Member at [PrivacyTools](https://privacytools.io/about/)
 
-- :shield: Team Member at [PrivacyTools](https://privacytools.io/about/)
+- :shield: [PrivacyTools](https://privacytools.io/about/)
 - 📫 [hello@freddym.xyz](mailto:hello@freddym.xyz)
 - 😄 [pronoun.is/he](https://pronoun.is/he)
 - 🐘 [@freddy@social.privacytools.io](https://social.privacytools.io/@freddy)
