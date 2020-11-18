@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-_I'm Freddy, an amateur writer covering privacy, security and open-source development. I'm also a team Member at [PrivacyTools](https://privacytools.io/about/)._
+I'm Freddy, an amateur writer covering privacy, security and open-source development. I'm also a team Member at [PrivacyTools](https://privacytools.io/about/).
 
 ---
 
