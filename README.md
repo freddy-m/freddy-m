@@ -1,11 +1,11 @@
 ### Hello there 👋
 
-I'm Freddy, an amateur writer covering privacy, security and open-source development. I'm also a team Member at [PrivacyTools](https://privacytools.io/about/).
+_I'm Freddy, an amateur writer covering privacy, security and open-source development. I'm also a team Member at [PrivacyTools](https://privacytools.io/about/)._
 
-- email/matrix: freddy [at] privacytools [dot] io
-- [pronoun.is/he](https://pronoun.is/he)
-- [@freddy@social.privacytools.io](https://social.privacytools.io/@freddy)
-- [Freddy's Ramblings](https://write.privacytools.io/freddy/)
+---
+
+email/matrix: freddy [at] privacytools [dot] io
+
 
 ###### This is free and unencumbered software?
 
