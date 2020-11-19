@@ -7,7 +7,7 @@ I'm Freddy, an amateur writer covering privacy, security and open-source develop
 email/matrix: freddy [at] privacytools [dot] io
 
 
-###### Click on the [🐙](https://octo-ring.com/p/splitbrain/random) to visit a random profile in the [Octo Ring](https://octo-ring.com/)
+###### Click on the [🐙](https://octo-ring.com/p/splitbrain/random) to visit a random profile in the [Octo Ring](https://octo-ring.com/).
 
 
 
