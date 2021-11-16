@@ -5,4 +5,3 @@
 </samp>
 </p>
 
-###### Click on the [🐙](https://octo-ring.com/p/splitbrain/random) to visit a random profile in the [Octo Ring](https://octo-ring.com/).
