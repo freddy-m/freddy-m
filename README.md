@@ -1,9 +1,10 @@
-### Hello there 👋
-
-*I'm Freddy, an amateur, freelance writer predominantly covering privacy. I'm also a team member at [Privacy Guides](https://www.privacyguides.org/).*
-
+<p align='center'>
+<samp>
+  Hello there, I'm <a href="">Freddy</a> 👋<br>
+  Freelance Writer & <a href="https://privacyguides.org/">Privacy</a> Advocate <br>
+  :mailbox: 
+  :lock: 
+</samp>
+</p>
 
 ###### Click on the [🐙](https://octo-ring.com/p/splitbrain/random) to visit a random profile in the [Octo Ring](https://octo-ring.com/).
-
-
-
